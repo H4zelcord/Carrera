@@ -9,4 +9,7 @@ There will also be **misunderstanding** between some things, as many of the note
 Everything related to 2nd year.
 
 ###### Diario
-Every daily notes taken in said year.
+Every daily notes taken in said year. It also comes with 2 folders naming each semester
+
+###### Capturas
+As its name suggests, it holds every screenshot used in the .md notes. anything captured between "![[]]".
